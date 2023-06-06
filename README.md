@@ -1,5 +1,4 @@
 # rotating-navigation
-# progress-steps
 
 mini web projects using HTML, CSS and JavaScript.
   #  | Project                                                                | Live Demo                                                |
